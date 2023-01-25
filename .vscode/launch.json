@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open About me- General.html",
+            "file": "/home/gotinkorang/Documents/GitHub/KNUST-IDL/Web Development and Design/Assignments/21st - 22nd January/About me- General.html"
+        }
+    ]
+}
